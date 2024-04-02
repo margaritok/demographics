@@ -1,0 +1,29 @@
+﻿state_id,city_area,establishments
+CA,Los Angeles,78
+CA,Orange County,34
+CA,Inland Empire,41
+CA,San Diego,23
+CA,Chico/Eureka/Reading,4
+CA,Sacramento,21
+CA,Stockton/Modesto,10
+CA,Napa/Sonoma/Marin,7
+CA,Bay Area,17
+CA,San Jose,13
+CA,Central Coast,6
+CA,Central Valley,18
+NV,Northern Nevada,4
+NV,Las Vegas,19
+AZ,Yvapai County,1
+AZ,Mohave County,2
+AZ,Phoenix,22
+AZ,Southern Arizona,9
+UT,Provo,1
+UT,Salt Lake City,10
+UT,Southern Utah,1
+TX,Dallas/Forth Worth,24
+TX,Austin,7
+TX,Houston,4
+TX,San Antonio,7
+CO,Colorado Springs,2
+CO,Denver,7
+ID,Boise,1
